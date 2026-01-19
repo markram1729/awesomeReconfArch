@@ -40,6 +40,9 @@
   - Survey on FPGA Architectures 
     - Evolution of FPGA Primitives 
     - LUTs , DSPs, Memory 
+- [Partial Reconfiguration on FPGAs](https://link.springer.com/book/10.1007/978-1-4614-1225-0)
+  - Great Summary on FPGA Architectures
+  - Design Techniques for Partial Reconfiguration 
 
 ### ASIC 
 
@@ -49,7 +52,16 @@
   - Ultra Low power Devices 
     - MRam **
 
-- 
+### Conference 
+
+#### ISFPGA
+- [contest ISFPGA’24](https://xilinx.github.io/fpga24_routing_contest/results.html)
+
+
+!### Experiments 
+
+!#### Xilinx RWRoute 
+! - [Xilinx Contest](https://xilinx.github.io/fpga24_routing_contest/start.html)
 
 
 ### Talks
