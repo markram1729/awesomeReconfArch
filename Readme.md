@@ -17,7 +17,40 @@
 - [Talks](Talks) 
 
 ### whitepapers
+
 - [Stratix II White Paper](./whitepapers/Alter_wp.pdf)
+- 
+
+### Fabulous ReshPapers 
+
+- [Configurable Computing: The Road Ahead](https://scispace.com/pdf/configurable-computing-the-road-ahead-3rj6nwi3e6.pdf)
+  - Evolution of Configurbale Hardware 
+  - Design Choices 
+  - Success Stories , Failures 
+
+- [Handbook of Computer Architecture](https://link.springer.com/referencework/10.1007/978-981-97-9314-3)
+  - Software, Hardware Paradigms 
+  - Approaches in Computing 
+    - Compiler Perspective 
+    - Hardware Perspective 
+
+### FPGA Architecture 
+
+- [FPGA Architecture:Principles and Progression](https://www.eecg.utoronto.ca/~vaughn/papers/casm2021_arch_survey.pdf)
+  - Survey on FPGA Architectures 
+    - Evolution of FPGA Primitives 
+    - LUTs , DSPs, Memory 
+
+### ASIC 
+
+- [Graham Gobieski -  Programmable Energy Minimal Architecture](https://g-ram.github.io/files/gobieski_thesis.pdf)
+  - `CGRA `
+  - Data Flow Architecture 
+  - Ultra Low power Devices 
+    - MRam **
+
+- 
+
 
 ### Talks
   - [[LOGIC SYNTH] ChurchRoad Guss Smith](https://www.youtube.com/watch?v=tTxVZo1K9ao)
