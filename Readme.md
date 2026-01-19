@@ -44,6 +44,32 @@
   - Great Summary on FPGA Architectures
   - Design Techniques for Partial Reconfiguration 
 
+- [FPGA ArchitecturaI Research: A Survey](https://www.eecg.toronto.edu/~brown/papers/DandT-arch-survey.pdf)
+  - Classic Survey Paper on 
+    - Logic Block Architectures 
+    - Routing block flexibility 
+
+> MultiFpga Routing 
+
+- [Leveraging Latency-Insensitivity to Ease Multiple FPGA Design](https://dspace.mit.edu/bitstream/handle/1721.1/121446/2012.02.isfpga.leap_multifpga.pdf?sequence=2&isAllowed=y)
+
+#### Routing 
+
+
+> Topologies
+
+- [The speed of diversity: Exploring complex FPGA routing topologies for the global metal layer](https://ieeexplore.ieee.org/document/7577326)
+  - Routing connections between tiles on FPGAs  are normally done in metallic layer in tapeout  
+  - This Paper explored the global Connections and Topologies for routing 
+  - Technode : 22nm pdk 
+  - Tools : VPR
+
+- [An Optimized GIB Routing Architecture with Bent Wires for FPGA](https://shikc.github.io/publications/GIB_bent.pdf)
+  - Global Interconnect Block (GIB)
+ 
+- [3D FPGA](https://isl.stanford.edu/~abbas/presentations/CIS2007.pdf)
+  - 3D Monolithic Stacking of the Logic 
+
 ### ASIC 
 
 - [Graham Gobieski -  Programmable Energy Minimal Architecture](https://g-ram.github.io/files/gobieski_thesis.pdf)
@@ -52,11 +78,25 @@
   - Ultra Low power Devices 
     - MRam **
 
+### Tools 
+
+- [nextpnr](https://github.com/YosysHQ/nextpnr)
+
+> Resources 
+
+- [Retiming](http://www.ece.umn.edu/users/parhi/SLIDES/chap4.pdf)
+
 ### Conference 
 
 #### ISFPGA
 - [contest ISFPGA’24](https://xilinx.github.io/fpga24_routing_contest/results.html)
 
+#### [OSDA](https://osda.ws)
+- [nextpnr & FABulous: customisable custom hardware ](https://osda.ws/events/2023/date/talks/myrtle-shah)
+  - Introduction to nextpnr 
+  - Fabulous : FPGA Generator for custom hardware 
+
+#### [woset](https://woset-workshop.github.io)
 
 !### Experiments 
 
